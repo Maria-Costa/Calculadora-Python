@@ -1,6 +1,6 @@
 # Calculadora em Python:
 
-Este é um projeto de calculadora realizado em pyhton. Nesta versão simples, ela realiza apenas as quatro operações básicas de **soma, subtração, multiplicação e divisão**.
+Este é um projeto de calculadora realizado em python. Nesta versão simples, ela realiza apenas as quatro operações básicas de **soma, subtração, multiplicação e divisão**.
 
 # Atualizações:
 - Permição para realizar mais operações sem reiniciar o programa
